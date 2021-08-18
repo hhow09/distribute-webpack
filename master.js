@@ -41,8 +41,10 @@ concurrently(shards.map(({apps, workerId})=>`docker run webpackrunner ${jobId}-$
 
 //TODO define status
 
-//check success 
+//TODO check success 
 
-//aggregate job artifact into 
+//TODO aggregate job artifact into prebuild vendor
+
+//TOOD build image for server
 
 
