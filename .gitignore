@@ -1,2 +1,3 @@
-ws
 node_modules
+go-simple-upload-server/
+.DS_Store

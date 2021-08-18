@@ -16,5 +16,8 @@
     "url": "https://github.com/hhow09/distribute-webpack/issues"
   },
   "homepage": "https://github.com/hhow09/distribute-webpack#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "concurrently": "^6.2.1",
+    "uuid": "^8.3.2"
+  }
 }
